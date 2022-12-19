@@ -10,8 +10,8 @@ please play responsibly
 
 ### minion characters
 
-|:--:|:-------------:|
 |name|rating in stars|
+|:--:|:-------------:|
 |bob|:star::star::star:|
 |stuart|:star::star::star::star:|
 |carl|:star::star:|
