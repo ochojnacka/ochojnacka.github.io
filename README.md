@@ -9,14 +9,12 @@ i love a good [minion game](https://minionrush.com)
 please play responsibly
 
 ### minion characters
-<style>
 |name|rating in stars|
 |:--:|:-------------:|
 |bob|:star::star::star:|
 |stuart|:star::star::star::star:|
 |carl|:star::star:|
 |dave|:star::star::star:|
-</style>
 
 **STOP**
 
@@ -26,5 +24,4 @@ wait a minute
 
 be happy now.
 
-<style {background-color: pink text-color: navy}>
 
